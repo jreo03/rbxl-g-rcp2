@@ -9,3 +9,5 @@ what i do remember, is using external parts to act as variables in order to try 
 # scaling:
 - a meter is 3.9057617797775266 studs.
 - gravity is supposedly 38.27646544181977 studs/s² yet it's 38.606. i don't remember exactly what i went through to get that value.
+# issue:
+since roblox filters out audio that aren't owned by you, pretty much everything is silent. if you want to know what everything sounded like, refer to this video. the car uses a similar system i have with VitaVehicle as well, so if you wish to restore the engine sounds, check out [my soundpacks](https://jreo.itch.io/jreo-sva) and upload them to roblox, **but please lower their volumes to avoid roblox's moderation, and be weary about spamming uploads.**
