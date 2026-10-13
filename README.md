@@ -8,4 +8,4 @@ what i do remember, is using external parts to act as variables in order to try 
 
 # scaling:
 - a meter is 3.9057617797775266 studs.
-- gravity is supposedly 38.27646544181977 studs/s² yet it's 38.606. i don't exactly remember what i went through with that value.
+- gravity is supposedly 38.27646544181977 studs/s² yet it's 38.606. i don't remember exactly what i went through to get that value.
